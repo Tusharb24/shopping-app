@@ -1,6 +1,7 @@
 # ShoppingApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+SHoppingApp covered Components communication and databinding
 
 ## Development server
 
